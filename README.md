@@ -11,7 +11,7 @@
 
 <div align="center">
 <h2>🛠️ Portfolio </h2>
-  <link>[황유림의 포트폴리오](https://stone-mochi-94c.notion.site/2912f23b094f80b28952f52fc9a3a3e9)</link>
+  <link>[황유림의 포트폴리오](https://www.figma.com/design/RIzSplBKTFcyPVrmUMvOMT/%ED%99%A9%EC%9C%A0%EB%A6%BC-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0-1&t=LhLkJYsghHIRgn1R-1)</link>
 
 <br/>
 <br/>
