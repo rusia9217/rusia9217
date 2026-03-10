@@ -7,11 +7,7 @@
 <p>큐시즘 31기 학회원 2025.02 ~ 2025.06</p>
 <p>큐시즘 32기 학회원 2025.08 ~ 2025.12</p>
 <br/>
-</div>
-
-<div align="center">
-<h2>🛠️ Portfolio </h2>
-  <link>[황유림의 이력서](https://www.figma.com/design/RIzSplBKTFcyPVrmUMvOMT/%ED%99%A9%EC%9C%A0%EB%A6%BC-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0-1&t=LhLkJYsghHIRgn1R-1)</link>
+</div>>
 
 <br/>
 <br/>
