@@ -7,6 +7,8 @@
 
 📮 hske3602@naver.com  ·  🎓 충북대학교 의류학과 · 소프트웨어학부
 
+<a href="./%ED%99%A9%EC%9C%A0%EB%A6%BC_PM_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf"><img src="https://img.shields.io/badge/📄_이력서·포트폴리오_PDF_보기-1D73A1?style=for-the-badge"></a>
+
 ---
 
 ## 🚀 Core Projects
