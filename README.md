@@ -72,12 +72,5 @@
 독일 **EU StartUp Accelerator Program** 이수<br>
 한국 IT 경영학회 **큐시즘** 31·32기 · 코바코 기업 프로젝트 이수<br>
 GIT 외국인·한국인 해커톤 운영 · 네이버 커넥트 소프트웨어야놀자 멘토단
-
----
-
-<h2>📊 statistics</h2>
-<div>
-  <img src="https://<내-프로젝트>.vercel.app/api?username=rusia9217&show_icons=true&theme=transparent&title_color=1D73A1&icon_color=1D73A1&text_color=595959&hide_border=true">
-</div>
 </div>
 
