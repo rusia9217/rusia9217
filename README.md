@@ -76,9 +76,8 @@ GIT 외국인·한국인 해커톤 운영 · 네이버 커넥트 소프트웨어
 ---
 
 <h2>📊 statistics</h2>
-<div >
-  <img src = "https://github-readme-stats.vercel.app/api?username=rusia9217&show_icons=true&theme=transparent&title_color=1D73A1&icon_color=1D73A1&text_color=595959&hide_border=true">
-</div>
+<div>
+  <img src="https://<내-프로젝트>.vercel.app/api?username=rusia9217&show_icons=true&theme=transparent&title_color=1D73A1&icon_color=1D73A1&text_color=595959&hide_border=true">
 </div>
 </div>
 
