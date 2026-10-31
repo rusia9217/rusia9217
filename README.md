@@ -47,12 +47,12 @@
 ## 📌 Projects · IT 프로젝트 16회
 
 **기획 · 프론트엔드 리더**<br>
-한끼톡톡 (LINC 상금 700만 원) · CONIC (ICT 한이음 장려상) · Clips (SW 캡스톤디자인 최우수상)<br>
-Cercat · Doomz · ARIBLE · kor-dic · Seoro
+[한끼톡톡](https://github.com/MealTokTok) (LINC 상금 700만 원) · [CONIC](https://github.com/HANIEUMICT) (ICT 한이음 장려상) · [Clips](https://github.com/project-shortform) (SW 캡스톤디자인 최우수상)<br>
+[Cercat](https://github.com/COS-project) · [Doomz](https://github.com/dormitoryFamilies) · ARIBLE · [kor-dic](https://github.com/kor-dic) · [Seoro](https://github.com/rusia9217/opensw-yuyeonga)
 
 **프론트엔드 팀원**<br>
-직행 기업 프로젝트 (온보딩 개선 · 최우수상 1위)<br>
-뭉글 · 큐시즘 공식 홈페이지 · KU-CHECK · Dear.K · Kobaco 기업 프로젝트
+[직행 기업 프로젝트](https://github.com/kusitms32th-zighang-2) (온보딩 개선 · 최우수상 1위)<br>
+[뭉글](https://github.com/Moongeul) · [큐시즘 공식 홈페이지](https://github.com/kusitms-com) · [KU-CHECK](https://github.com/Kusitms32th-KuCheck) · [Dear.K](https://github.com/kusitms-dear-k) · [Kobaco 기업 프로젝트](https://github.com/kusitms31th-kobaco-c)
 
 ---
 
