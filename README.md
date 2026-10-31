@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=78B2D1&height=200&section=header&text=RUSIA%20GitHub&fontSize=50&fontColor=ffffff&fontAlignY=37" />
 <div align="center">
-<div align="center">
-<div align="center">
 
 # 황유림 · PM / PO
 
@@ -25,7 +23,7 @@
 **3단계 가설 검증** — 아이템 검증(출시 8일 만에 CAC 88원) → 수익화 검증(Free / Pro 구독 BM) → 리텐션 개선(진행 중)<br>
 이벤트 트래킹 기반으로 퍼널과 이탈을 분석해 AI 목표 생성, TimeBlock 자동 배치, Aha-moment 지표를 설계했어요.
 
-### KORFIT — 리더
+### [KORFIT](https://github.com/Core-Foreign-Employee-Hiring) — 리더
 
 외국인 성장·채용 플랫폼 · 기획 · 프론트 · 8인 팀
 
